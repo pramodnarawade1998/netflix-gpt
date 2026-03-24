@@ -1,0 +1,18 @@
+{
+  "hoisting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "*/node_modules/**"
+    ]
+  },
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
